@@ -329,6 +329,8 @@ section {
 
 .experience-details-container {
   display: flex;
+  /* width: 100%; */
+  margin-left: -63px;
   justify-content: center;
   flex-direction: column;
 }
